@@ -24,7 +24,6 @@
 
 ## 📊 Stats
 <div>
-  <a href="https://github.com/LeoGCarva></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoGCarva&count_private=true&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoGCarva&count_private=true&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGCarva&langs_count=3&layout=compact&theme=dracula" />
 </div>
