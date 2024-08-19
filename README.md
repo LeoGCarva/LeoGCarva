@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-📍 | I was born in 2003 and currently live in the countryside of São Paulo - Brasil <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/>.<br />
+📍 | I was born in 2003 and currently live in the countryside of <strong>São Paulo - Brasil</strong> <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/>.<br />
 📜 | I'm currently learning Web Development and I'm in college studying computer engineering.<br />
 😍 | Love everything about technology, learn and teach coding!<br />
 
