@@ -28,5 +28,5 @@
 
 <div>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoGCarva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGCarva&langs_count=3&layout=compact&theme=dracula" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGCarva&langs_count=3&layout=compact&theme=dracula&count_private=true" />
 </div>
