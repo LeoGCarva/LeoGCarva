@@ -24,7 +24,7 @@
 </p>
 
 
----
+<!--  ---
 
 ## 📊 Stats
 
@@ -32,3 +32,4 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoGCarva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGCarva&langs_count=3&layout=compact&theme=dark&count_private=true" />
 </div>
+-->
